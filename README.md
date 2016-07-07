@@ -4,7 +4,7 @@
 ## Overview
 
 
-**ATScrollingNumbers** is a subclass of UIView, written in Swift and can as drop in solution for scrolling number animation.   
+**ATScrollingNumbers** is a subclass of UIView, written in Swift and can be used as drop in solution for scrolling number animation.   
    
 
 ![image](https://raw.githubusercontent.com/anooptomar1/ATScrollingNumbers/master/example.gif)
