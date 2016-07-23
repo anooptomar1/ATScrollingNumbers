@@ -38,6 +38,10 @@ class ViewController: UIViewController {
 
 Check out the Example project.
 
+## Credits
+
+Inspired by Rally health age control
+
 ## Author
 
 Anoop Tomar, anooptomar@gmail.com
